@@ -71,7 +71,7 @@ function draw() {
 
         stroke(37.7777, 21, 10);
         strokeJoin(ROUND);
-        strokeWeight(1.5);
+        strokeWeight(anc * 0.0038);
 
         // cuadrado base
         fill(50 + colF, 51, 19);
