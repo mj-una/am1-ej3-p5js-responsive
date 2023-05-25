@@ -1,4 +1,4 @@
-## Ejercicio 3 (responsive)
+## Ejercicio 3 version responsive
 
 Artes Multimediales 1 - Catedra Lacabanne
 
