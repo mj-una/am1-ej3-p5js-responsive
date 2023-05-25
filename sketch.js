@@ -187,6 +187,7 @@ function mouseReleased() {
 }
 
 function windowResized() {
+    preload();
     setup(); 
     resizeCanvas(anc, alc);
     setup();
