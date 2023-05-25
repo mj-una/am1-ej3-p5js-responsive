@@ -1,3 +1,6 @@
+// ejercicio 3 p5js
+// martin julio
+// basado en obra de yakov chernikhov
 // 12.4.23
 
 let anc, alc, mrg;
