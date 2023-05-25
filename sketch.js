@@ -1,4 +1,4 @@
-// ejercicio 3 p5js
+// ejercicio 3 p5js version responsive
 // martin julio
 // basado en obra de yakov chernikhov
 // 12.4.23
