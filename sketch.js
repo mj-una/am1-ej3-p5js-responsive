@@ -1,7 +1,6 @@
 // martin julio
 // 25-4-23
 // ejercicio 3 movimiento en p5js version responsive
-// informatica aplicada 1 - catedra bedoian 
 // basado en obra de yakov chernikhov
 
 let anc, alc, mrg;
